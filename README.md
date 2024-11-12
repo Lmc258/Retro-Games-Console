@@ -134,4 +134,5 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: raspberry-pi-4-retro-gaming-case.jpg
-[ROM_Formatting_image]: 
+[ROM_Formatting_image]: Pi_roms_amiga_folder2-2051483879.png
+[RetroPie-filemanager]: 
