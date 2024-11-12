@@ -13,8 +13,10 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#adding-games-roms">Adding Games - ROMs</a></li>
       </ul>
     </li>
+    <li><a href="#additional-consoles">Additional Consoles</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -107,7 +109,7 @@ scp -r <roms folder path>\\* <username>@<pi ip address>:~/RetroPie/roms/
 
 
 
-<!-- ADDING CONSOLES -->
+<!-- ADDITIONAL CONSOLES -->
 ## Additional consoles
 Personally, I found that most of the nostalgic games I remember come from Nintendo DS or PlayStation. These consoles are not by default enabled/downloaded on the RetroPie system. Here are a list of steps you can follow to add these consoles to your Pi.
 
