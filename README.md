@@ -95,7 +95,7 @@ To check the folder names are correct you can go to "FILE MANAGER" in "RETROPIE"
 ![RetroPie-filemanager]
 
 
-### Adding ROMs to RetroPi
+#### Adding ROMs to RetroPi
 
 To transfer games to the Retro Pi you can use SCP (Secure Copy) to transfer over wifi. This wil require you to have set up the wifi on your Pi.
 1. Right-click your “roms” folder and choose “copy as path”
