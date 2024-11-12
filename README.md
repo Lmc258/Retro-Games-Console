@@ -84,11 +84,13 @@ By now you should have the RetroPie working. BUT, your missing something... you 
 
 #### Formating ROMS
 
-Once you have your ROMs (games files) on your computer you need to format these files to how the RetroPi formats ROMs. Game files or ROMs will need to be stored in folders which match the console they have come from **make sure these folder names are correct**. See image below for example.
+Once you have your ROMs (games files) on your computer you need to format these files to how the RetroPi formats ROMs. Game files or ROMs will need to be stored in folders which match the console they have come from **make sure these folder names are correct**.
 
-![ROM-Formatting][ROM_Formatting_image]
+![ROM_Formatting_image]
 
-To check the folder names are correct you can go to "FILE MANAGER" in "RETROPIE". From here go to "RetroPie", and "roms". This will show you how the RetroPie stores/formats ROMs. 
+To check the folder names are correct you can go to "FILE MANAGER" in "RETROPIE". From here go to "RetroPie", and "roms". This will show you how the RetroPie stores/formats ROMs. See image below.
+
+![RetroPie-filemanager]
 
 
 ### Adding ROMs to RetroPi
@@ -135,4 +137,4 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: raspberry-pi-4-retro-gaming-case.jpg
 [ROM_Formatting_image]: Pi_roms_amiga_folder2-2051483879.png
-[RetroPie-filemanager]: 
+[RetroPie-filemanager]: raspberry-pi-imager-retropie-file-manager-2-3729658751.jpg
