@@ -125,10 +125,11 @@ Personally, I found that most of the nostalgic games I remember come from Ninten
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+I'd like to acknowledge the following resources. These are the real heros!
 
 * [Retro Pie: A Raspberry Pi Gaming Machine](https://youtu.be/AaseHnf0k2o?si=gGENro9Kp6qdv0rq)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [RetroPie Website](https://retropie.org.uk/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
