@@ -115,7 +115,9 @@ Personally, I found that most of the nostalgic games I remember come from Ninten
 
 ### Nintendo DS
 
+
 ### PlayStation 1
+For playstation I used the following tutorial to set up PSX on the RetroPi - [How to Play PSX Games on Retro](https://raspberrytips.com/play-psx-games-on-retropie/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
